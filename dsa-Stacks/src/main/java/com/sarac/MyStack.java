@@ -42,4 +42,6 @@ public class MyStack<T> {
         size--;
         return (T)peekNode.value;
     }
+
+
 }
